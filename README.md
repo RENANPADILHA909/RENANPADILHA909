@@ -1,7 +1,6 @@
 ## eu sou renan do colegio Estadual padre Claudio morelli
 
-<!--
-**RENANPADILHA909/RENANPADILHA909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![](https://tenor.com/pt-BR/view/coritiba-coxa-green-hell-festa-couto-pereira-gif-17215045)
+
+![](https://media.tenor.com/nMwwD7FTuHUAAAAi/clash-royale-prince.gif)
