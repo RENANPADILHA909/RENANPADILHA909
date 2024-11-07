@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - gosto de futebol
 - gosto de jogar online
 - e torço para o Coritiba Football club do Paraná
-- gosto de tocar estrmentos, especificamente Violão
+- gosto de tocar estrumentos, especificamente Violão
 - 😁
 
 ![](https://media.tenor.com/nMwwD7FTuHUAAAAi/clash-royale-prince.gif)
