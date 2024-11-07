@@ -1,9 +1,5 @@
 ## eu sou renan do colegio Estadual padre Claudio morelli
 
-
-
-Here are some ideas to get you started:
-
 - eu tenho 14 quase 15
 - gosto de futebol
 - gosto de jogar online
